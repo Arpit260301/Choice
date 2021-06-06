@@ -4,15 +4,15 @@ Online Food Ordering System is the web based application intended for restaurant
 
 ## Software Requirements
 
-Programming languages : Python
+Programming languages:- Python
 
-Operating System : Windows/Linux
+Operating System:- Windows/Linux
 
-Web Technologies : Django(2.0),Html,Css,Javascript,React
+Web Technologies:- Django(2.0),Html,Css,Javascript,React
 
-Database : Sqlite
+Database:- Sqlite
 
-#### Setup To Run
+### Setup To Run
 
 ```
 pip install -r requirements.txt
